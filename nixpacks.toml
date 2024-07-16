@@ -1,0 +1,6 @@
+[build]
+packages = ["nodejs", "npm"]
+
+[scripts]
+build = "npm install"
+start = "npm start"
